@@ -1,1 +1,2 @@
-# -telegram-bot
+# Telegram bot
+Candy grab game 
